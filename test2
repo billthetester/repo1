@@ -1,0 +1,11 @@
+# machine learning imports
+import sklearn
+import tensorflow as tf
+import xgboost
+
+# data viz imports
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+print(tf.__version__)
+
